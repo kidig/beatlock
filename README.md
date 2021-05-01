@@ -1,6 +1,6 @@
 # beatlock
 
-Celerybeat with failover on Redis-Sentinel
+Celerybeat failover on Redis-Sentinel. Works only with [django_celery_beat](https://github.com/celery/django-celery-beat).
 
 
 ## Installation
